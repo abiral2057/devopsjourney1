@@ -3,4 +3,4 @@ replicas: 5
 
 configmap:
   data:
-    CUSTOM_HEADER: 'This is on the DEMO environment!' 
+    CUSTOM_HEADER: 'Today is Agust 25' 
